@@ -61,17 +61,17 @@ a.vertical-scaling{
     margin-top: -2%;
     color: rgb(227, 238, 75);
     animation-name: my_animation;
-    animation-duration: 8s;
+    animation-duration: 5s;
     animation-iteration-count: infinite;
 }
 @keyframes my_animation {
     from{
         margin-top: -2%;
     } 
-    10%{
+    5%{
         margin-top:-1%;
     }
-    30%{
+    20%{
         margin-top: -2%;
     }
     100%{
